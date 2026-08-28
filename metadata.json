@@ -1,0 +1,6 @@
+{
+  "name": "Контроль Расходов",
+  "description": "Удобный контроль и учет расходов и доходов по категориям с интерактивными круговыми диаграммами статистики",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
